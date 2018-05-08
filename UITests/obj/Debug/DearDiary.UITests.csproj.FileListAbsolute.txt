@@ -1,0 +1,10 @@
+/Users/shubhamgoel/Projects/DearDiary/UITests/bin/Debug/DearDiary.UITests.dll
+/Users/shubhamgoel/Projects/DearDiary/UITests/bin/Debug/DearDiary.UITests.pdb
+/Users/shubhamgoel/Projects/DearDiary/UITests/bin/Debug/nunit.framework.dll
+/Users/shubhamgoel/Projects/DearDiary/UITests/bin/Debug/Xamarin.UITest.dll
+/Users/shubhamgoel/Projects/DearDiary/UITests/bin/Debug/nunit.framework.xml
+/Users/shubhamgoel/Projects/DearDiary/UITests/bin/Debug/Xamarin.UITest.xml
+/Users/shubhamgoel/Projects/DearDiary/UITests/obj/Debug/DearDiary.UITests.csprojResolveAssemblyReference.cache
+/Users/shubhamgoel/Projects/DearDiary/UITests/obj/Debug/DearDiary.UITests.csproj.CoreCompileInputs.cache
+/Users/shubhamgoel/Projects/DearDiary/UITests/obj/Debug/DearDiary.UITests.dll
+/Users/shubhamgoel/Projects/DearDiary/UITests/obj/Debug/DearDiary.UITests.pdb
